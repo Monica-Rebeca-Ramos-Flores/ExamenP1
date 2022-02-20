@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="opciones">
+        <item>Honduras (+504)</item>
+        <item>Mexico (+52)</item>
+        <item>Estados Unidos (+1)</item>
+        <item>España (+34)</item>
+    </string-array>
+
+</resources>
